@@ -15,6 +15,7 @@ The R code contains inline instructions describing analyses steps.
 - Similarly for control sites, measures were calculated as comparators for the active sites. Instead of pre- and post-AI, the periods for the control sites were matched to the dates at which the active sites had the AI pathway turned on.
 - Some of the extracted measures were also the FLS-DB KPIs and were subsequently summarised and compared in the main manuscript.
 
-- 
+  
 ```r
-source("script_name.R")
+source("v0.1 Supplementary Code.R")
+```
